@@ -6,9 +6,9 @@ def create_an_array
   friends= ["Ryan", "Nick", "Danielle", "Caleigh"]
 end
 
-friends= ["Ryan", "Nick", "Danielle", "Caleigh"]
+
 def add_element_to_end_of_array(array, element)
-  friends << ("Dee")
+  array << (#{element})
 end
 
 def add_element_to_start_of_array(array, element)
