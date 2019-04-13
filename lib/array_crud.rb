@@ -6,6 +6,7 @@ def create_an_array
   friends= ["Ryan", "Nick", "Danielle", "Caleigh"]
 end
 
+friends= ["Ryan", "Nick", "Danielle", "Caleigh"]
 def add_element_to_end_of_array(array, element)
   friends << ("Dee")
 end
